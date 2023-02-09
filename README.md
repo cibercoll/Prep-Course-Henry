@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este es un repositorio del Prepcourse de Henry
+Prueba de como crear un repositorio y clonarlo desde gitgub a mi computadora.
